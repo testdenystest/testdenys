@@ -1,1 +1,3 @@
-class pussy {}
+class pussy {
+	public static give(){}
+}
